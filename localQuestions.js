@@ -475,6 +475,9 @@ export const localQuestions = [
   "Have you ever quit your job?",
   "Have you ever decided to change the way you dress? If so, why?",
   "Have you ever decided to change the way you eat, or your form of exercise?",
+  "What is one food you've never eaten but would love to try?",
+  "What is something great about your country that most people don't know about?",
+  "What is the strangest drink or snack flavor you've ever eaten?"
 ];
 
 export const localIdioms = [
