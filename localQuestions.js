@@ -569,6 +569,36 @@ export const localQuestions = [
   "If the world was going to end at 3:37 tomorrow afternoon, what would you do up until that time?",
   "If you were the world’s best at something, what would you like to be best at?",
   "If you were a colour, what colour would you be and why?",
+  "Bucket list: What are five things you want to do before you die?",
+  "What are three important things you've learned in the past three years?",
+  "Pretend you are the president. What are three things you'd try to change?",
+  "If you had the chance to study abroad for one year, would you?",
+  "Can you teach someone who has no desire to learn?",
+  "Are school uniforms good to have? Why/why not?",
+  "Some people learn on their own. What things, if any, have you learned without teachers or formal education?",
+  "Who has taught you a lot in your life?",
+  "How will our children be affected by climate change?",
+  "Do you eat a healthy diet? Why or why not?",
+  "Where is the best place to eat in your town? Why is it so good?",
+  "How often do you eat foreign food and how often do you eat your country’s cuisine?",
+  "What is your favorite foreign food? How is it different from your country’s cuisine?",
+  "What is the best food to eat when you are sick?",
+  "What unhealthy food do you love?",
+  "If you visited countries where people ate the following foods, would you try any of them: monkey, snake, dog, insects? Why or why not?",
+  "‘You are what you eat.’ Do you agree?",
+  "Have you ever spoken in front of a large group of people?",
+  "What’s your favourite way to waste time?",
+  "Which is more important: a great car or a great house?",
+  "What is the best way to stay motivated and complete goals?",
+  "What do you hope to achieve in your professional life?",
+  "What do you think of online education?",
+  "If you opened a business what kind of business would it be?",
+  "What will the future of education be?",
+  "What book has influenced you the most?",
+  "Which recent news story is the most interesting?",
+  "What’s the most refreshing thing on a hot summer day?",
+  "Does technology simplify life or make it more complicated?",
+  "What do you think of homeschooling?",
 ];
 
 export const localIdioms = [
@@ -914,5 +944,30 @@ export const localIdioms = [
   {
     idiom: "Pulling your leg",
     meaning: "you are just joking or kidding around with someone",
+  },
+  {
+    idiom: "Chill",
+    meaning: "to relax",
+  },
+  {
+    idiom: "Cram",
+    meaning: "to study a lot before a test",
+  },
+
+  {
+    idiom: "Give the cold shoulder",
+    meaning: "ignore",
+  },
+  {
+    idiom: "My bad",
+    meaning: "my fault or mistake",
+  },
+  {
+    idiom: "You bet",
+    meaning: "of course, no problem",
+  },
+  {
+    idiom: "You can say that again!",
+    meaning: "I agree with you completely",
   },
 ];
